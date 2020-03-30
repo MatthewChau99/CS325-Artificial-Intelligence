@@ -304,7 +304,7 @@ def betterEvaluationFunction(currentGameState):
     capNumCoeff = 10000
 
     # Close to ghosts
-    if ghostDist[0] < 2 or ghostDist[1] < 2:
+    if ghostDist[0] < 1 or ghostDist[1] < 1:
         return -99999999999
 
     return sum(ghostDist) + foodNumCoeff / (foodNum + 1) + minFoodDistCoeff / (minFoodDist + 1) + capNumCoeff / (
