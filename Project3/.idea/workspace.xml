@@ -2,11 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2cef76bb-3e9f-4535-ac38-018353f34af3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Project2/.idea/libraries/R_User_Library.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project2/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Project2/.idea/Project2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Project2/.idea/Project2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Project2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Project2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Project2/multiAgents.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Project2/multiAgents.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bustersAgents.py" beforeDir="false" afterPath="$PROJECT_DIR$/bustersAgents.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inference.py" beforeDir="false" afterPath="$PROJECT_DIR$/inference.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_cases/q6-extra/1-JointParticleObserve.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_cases/q6-extra/1-JointParticleObserve.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_cases/q6-extra/2-JointParticleObserve.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_cases/q6-extra/2-JointParticleObserve.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_cases/q6-extra/3-JointParticleObserve.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_cases/q6-extra/3-JointParticleObserve.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_cases/q6-extra/4-JointParticleObserve.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_cases/q6-extra/4-JointParticleObserve.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_cases/q6-extra/5-JointParticleObserve.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_cases/q6-extra/5-JointParticleObserve.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_cases/q6-extra/CONFIG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_cases/q7-extra/1-JointParticleElapse.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_cases/q7-extra/1-JointParticleElapse.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_cases/q7-extra/2-JointParticleElapse.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_cases/q7-extra/2-JointParticleElapse.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_cases/q7-extra/3-JointParticleObserveElapse.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_cases/q7-extra/3-JointParticleObserveElapse.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_cases/q7-extra/CONFIG" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,22 +31,90 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ghostAgents.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/inference.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+              <folding>
+                <element signature="e#687#703#0" expanded="true" />
+                <element signature="e#1450#1648#1" />
+                <element signature="e#1889#2000#0" />
+                <element signature="e#2088#2982#0" />
+                <element signature="e#2088#2808#1" />
+                <element signature="e#3031#3341#0" />
+                <element signature="e#3242#3341#0" />
+                <element signature="e#3388#3677#0" />
+                <element signature="e#3683#3721#0" />
+                <element signature="e#3863#3945#0" />
+                <element signature="e#4002#4087#0" />
+                <element signature="e#4134#4207#0" />
+                <element signature="e#4254#4412#0" />
+                <element signature="e#4254#4399#1" />
+                <element signature="e#9170#9189#0" />
+                <element signature="e#13193#14223#0" />
+                <element signature="e#13337#13527#0" />
+                <element signature="e#13576#13714#0" />
+                <element signature="e#13761#13885#0" />
+                <element signature="e#13932#14223#0" />
+                <element signature="e#14393#14427#0" />
+                <element signature="e#14482#14514#0" />
+                <element signature="e#14577#14805#0" />
+                <element signature="e#16125#16248#0" />
+                <element signature="e#16292#16314#0" />
+                <element signature="e#18439#20396#1" />
+                <element signature="e#21457#21564#0" />
+                <element signature="e#21636#21914#0" />
+                <element signature="e#21764#21893#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bustersAgents.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="5" column="13" lean-forward="true" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/util.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-6132">
+              <caret line="38" column="12" selection-start-line="38" selection-start-column="12" selection-end-line="38" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/.idea/Project3.iml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" />
+        <option value="$PROJECT_DIR$/inference.py" />
+        <option value="$PROJECT_DIR$/bustersAgents.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1440" />
+    <option name="width" value="714" />
     <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -53,11 +138,12 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -81,24 +167,34 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585480338328</updated>
-      <workItem from="1585480342983" duration="640000" />
+      <workItem from="1585480342983" duration="11521000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="640000" />
+    <option name="totallyTimeSpent" value="11521000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12017167" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19456366" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32923833" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -106,7 +202,7 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32923833" />
       <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="R Packages" />
       <window_info anchor="right" id="SciView" />
@@ -118,5 +214,73 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ghostAgents.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6132">
+          <caret line="38" column="12" selection-start-line="38" selection-start-column="12" selection-end-line="38" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Project2/multiAgents.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inference.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+          <folding>
+            <element signature="e#687#703#0" expanded="true" />
+            <element signature="e#1450#1648#1" />
+            <element signature="e#1889#2000#0" />
+            <element signature="e#2088#2982#0" />
+            <element signature="e#2088#2808#1" />
+            <element signature="e#3031#3341#0" />
+            <element signature="e#3242#3341#0" />
+            <element signature="e#3388#3677#0" />
+            <element signature="e#3683#3721#0" />
+            <element signature="e#3863#3945#0" />
+            <element signature="e#4002#4087#0" />
+            <element signature="e#4134#4207#0" />
+            <element signature="e#4254#4412#0" />
+            <element signature="e#4254#4399#1" />
+            <element signature="e#9170#9189#0" />
+            <element signature="e#13193#14223#0" />
+            <element signature="e#13337#13527#0" />
+            <element signature="e#13576#13714#0" />
+            <element signature="e#13761#13885#0" />
+            <element signature="e#13932#14223#0" />
+            <element signature="e#14393#14427#0" />
+            <element signature="e#14482#14514#0" />
+            <element signature="e#14577#14805#0" />
+            <element signature="e#16125#16248#0" />
+            <element signature="e#16292#16314#0" />
+            <element signature="e#18439#20396#1" />
+            <element signature="e#21457#21564#0" />
+            <element signature="e#21636#21914#0" />
+            <element signature="e#21764#21893#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bustersAgents.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="13" lean-forward="true" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
